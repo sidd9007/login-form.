@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Login Page</title>
+    <title>Login form</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -20,4 +20,3 @@
     </div>
 </body>
 </html>
-gin-form.
